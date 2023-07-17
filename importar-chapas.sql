@@ -1,4 +1,5 @@
 -- Criar array agrupado 
+-- Importar chapas apartir de tabela temporária
 -- Usar para importar tabela chapa - eleicaonet
 SELECT 
 c.codigo as diretorio,
